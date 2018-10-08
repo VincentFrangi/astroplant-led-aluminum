@@ -2,7 +2,7 @@
 
 ## About This Project
 
-_It is recommended to use aluminum PCB for heat considération
+_It is recommended to use aluminum PCB for heat consideration
 _
 
 ## Renderings
