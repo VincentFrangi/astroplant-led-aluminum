@@ -2,8 +2,9 @@
 
 ## About This Project
 
-_It is recommended to use aluminum PCB for heat consideration
-_
+_It is recommended to use aluminum PCB for heat consideration_
+
+[Interactive BOM](https://htmlpreview.github.io/?https://github.com/VincentFrangi/astroplant-led-aluminum/blob/master/ibom.html)
 
 ## Renderings
 
